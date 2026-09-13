@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+*.pdf
+WhatsApp Image*
+_*.py
+_*.jpg
+.env
+.env.*
